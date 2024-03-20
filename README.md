@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Data Science Cloud Solutions
 
-💞️ I’m looking to collaborate on Data Science Projects
+💞️ I’m looking to collaborate on Data Science Projects , AI/ML Projects.
 
 📫 email: bharatnokhawal202223@gmail.com
 
